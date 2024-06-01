@@ -1,0 +1,9 @@
+{
+  "SUC_LOCATION_LIST_SUCCESSFULLY": "Location list get successfully.",
+  "SUC_LOCATION_CREATED_SUCCESSFULLY": "Location added successfully.",
+  "SUC_LOCATION_GET_SUCCESSFULLY": "Location list get successfully.",
+  "SUC_LOCATION_UPDATED_SUCCESSFULLY": "Location updated successfully.",
+  "SUC_LOCATION_DELETED_SUCCESSFULLY": "Location deleted successfully.",
+  "SUC_WEATHER_LOCATION_WISE": "Weather forecast get successfully by locationId.",
+  "SUC_WEATHER_HISTORY": "Weather history get successfully by locationId."
+}

@@ -1,0 +1,4 @@
+{
+  "ERR_LOCATION_NOT_FOUND": "Location not found.",
+  "ERR_LOCATION_WITH_SAME_NAME_EXIST": "Location with the same name already exists."
+}
